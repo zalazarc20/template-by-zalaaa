@@ -10,7 +10,7 @@ Welcome to the documentation of **Project Template By Zalaaa**. Here, I will lea
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/zalazarc20/template-by-zalaaa.git
     ```
 2. **Install dependencies**:
     ```sh
@@ -25,4 +25,4 @@ Welcome to the documentation of **Project Template By Zalaaa**. Here, I will lea
     npm run build
     ```
 
-This repository comes pre-installed with Shadcn UI using Vite, as well as react-router-dom and the Lucide-react icon packages.
+This repository comes pre-installed with **Shadcn UI** using **Vite**, as well as **react-router-dom** and the **Lucide-react** icon packages.
